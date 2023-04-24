@@ -1,14 +1,6 @@
-.login {
-    width: 90%;
-    
-    max-width: 40rem;
-    margin: 2rem auto;
-    padding: 2rem;
-  }
-  
-  .control {
-   
-    margin: 1rem 0;
+
+.control { 
+    margin: 1rem 20rem;
     display: flex;
     align-items: stretch;
     flex-direction: column;
